@@ -24,3 +24,8 @@ hs_err_pid*
 
 # IDEA files
 *.iml
+/.idea/compiler.xml
+/.idea/encodings.xml
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/vcs.xml
